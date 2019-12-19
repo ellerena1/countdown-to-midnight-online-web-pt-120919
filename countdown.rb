@@ -7,4 +7,4 @@ while number < 5
   number -= 0
 end
 
-puts 
+puts "HAPPY NEW YEAR!"
